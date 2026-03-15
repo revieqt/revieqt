@@ -21,8 +21,6 @@
 ## 👨‍💻 About Me
 
 * 🎓 IT Student from **Cebu, Philippines**
-* 📱 Building **TaraG**, a travel companion mobile app
-* 🏢 Developing **HRIS** systems
 * 🚀 Interested in **Mobile Development, Backend Systems, and DevOps**
 * 🌱 Currently learning **system architecture & scalable backend design**
 
@@ -49,25 +47,6 @@ Travel companion application with smart trip planning.
 * Firebase
 * CouchDB
 * OpenStreetMap
-
----
-
-## 🏢 HRIS
-
-Human Resource Information System for employee management.
-
-**Features**
-
-* Employee management
-* Role-based access control
-* Secure authentication
-* Administrative dashboard
-
-**Tech Stack**
-
-* Django
-* MySQL
-* Docker
 
 ---
 
@@ -141,21 +120,11 @@ Human Resource Information System for employee management.
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=revieqt&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com
-* 🌍 Portfolio: Coming Soon
+* 📧 Email: [revie.dev@gmail.com](mailto:revie.dev@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/joshua-opsima-09a3a7316
+* 🌍 Portfolio: joshopsima.vercel.app
 
 ---
 
