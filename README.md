@@ -1,86 +1,82 @@
-# <div align="center">Hi 👋 I'm Joshua Opsima</div>
+<!-- HEADER BANNER -->
 
-<div align="center">
+<h1 align="center">Hi 👋 I'm Joshua Opsima</h1>
 
-### 💻 Full Stack Developer | 📱 Mobile App Developer | 🚀 Tech Enthusiast
+<h3 align="center">
+Full Stack Developer • Mobile App Developer • Tech Enthusiast
+</h3>
 
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Mobile+Developer;Node.js+Backend+Engineer;Building+TaraG+Travel+App;Always+Learning+New+Technologies" />
+</p>
 
----
-
-<div align="center">
-
-<!-- Animated typing -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Mobile+Developer;Node.js+Backend+Engineer;Building+TaraG+Travel+App;Always+Learning+New+Technologies" />
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=revieqt&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 IT Student from **Cebu, Philippines**
-* 🚀 Interested in **Mobile Development, Backend Systems, and DevOps**
-* 🌱 Currently learning **system architecture & scalable backend design**
+🎓 IT Student from **Cebu, Philippines**
+📱 Passionate about **Mobile Development & Backend Systems**
+⚙️ Exploring **System Architecture & DevOps**
+🚀 Currently building **TaraG Travel Companion App**
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
-## 🌍 TaraG
+## 🌍 TaraG – Smart Travel Companion
 
-Travel companion application with smart trip planning.
+A **travel planning mobile application** designed to help users explore places efficiently with smart tools.
 
-**Features**
+### ✨ Key Features
 
-* 📍 Route planning
-* ☁️ Weather forecasting
-* 👥 Group travel coordination
-* 🚨 Emergency alerts
-* 📱 Offline support
+📍 Smart Route Planning
+☁️ Weather Forecast Integration
+👥 Group Travel Coordination
+🚨 Emergency Alert System
+📱 Offline Mode Support
 
-**Tech Stack**
+### ⚙️ Tech Stack
 
-* React Native (Expo)
-* Node.js
-* Firebase
-* CouchDB
-* OpenStreetMap
+React Native • Node.js • Firebase • CouchDB • OpenStreetMap
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
 
-### Frontend
+### 📱 Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react)
-![Expo](https://img.shields.io/badge/Expo-black?logo=expo)
+<p>
+<img src="https://skillicons.dev/icons?i=react,expo" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
 
-### Databases
+### 🗄 Databases
 
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![CouchDB](https://img.shields.io/badge/CouchDB-red?logo=apache)
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+<img src="https://img.shields.io/badge/CouchDB-red?logo=apache&logoColor=white"/>
+</p>
 
-### Tools
+### 🧰 Tools & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" />
+</p>
 
 ---
 
@@ -88,9 +84,9 @@ Travel companion application with smart trip planning.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=revieqt&show_icons=true&theme=tokyonight" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=revieqt&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revieqt&layout=compact&theme=tokyonight" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revieqt&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -100,7 +96,7 @@ Travel companion application with smart trip planning.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=revieqt&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=revieqt&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,14 +118,24 @@ Travel companion application with smart trip planning.
 
 # 🌐 Connect With Me
 
-* 📧 Email: [revie.dev@gmail.com](mailto:revie.dev@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/joshua-opsima-09a3a7316
-* 🌍 Portfolio: joshopsima.vercel.app
+<p>
+
+<a href="mailto:revie.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-revie.dev%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/joshua-opsima-09a3a7316">
+<img src="https://img.shields.io/badge/LinkedIn-Joshua%20Opsima-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://joshopsima.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
-
-⭐ **Always learning, building, and improving.**
-
-</div>
+<h3 align="center">
+⭐ Always learning, building, and improving.
+</h3>
