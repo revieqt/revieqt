@@ -1,249 +1,14 @@
 <!-- HEADER BANNER -->
 
-<h1 align="center">Hi 👋 I'm Joshua Opsima</h1>
+<h1 align="center">Hello, I'm Joshua Opsima!</h1>
 
-<h3 align="center">
-Full Stack Developer • Mobile App Developer • Tech Enthusiast
-</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Mobile+Developer;Node.js+Backend+Engineer;Building+TaraG+Travel+App;Always+Learning+New+Technologies" />
+IT Student from **Cebu, Philippines**.
+Passionate about **Mobile Development & Backend Systems**.
+Exploring **System Architecture & DevOps**.
 </p>
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=revieqt&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 👨‍💻 About Me
-
-🎓 IT Student from **Cebu, Philippines**
-📱 Passionate about **Mobile Development & Backend Systems**
-⚙️ Exploring **System Architecture & DevOps**
-🚀 Currently building **TaraG Travel Companion App**
-
----
-
-# 🚀 Featured Project
-
-## 🌍 TaraG – Smart Travel Companion
-
-<a href="https://www.tarag.space">
-www.tarag.space
-</a>
-
-A **travel planning mobile application** designed to help users explore places efficiently with smart tools.
-
-### ✨ Key Features
-
-📍 Smart Route Planning
-☁️ Weather Forecast Integration
-👥 Group Travel Coordination
-🚨 Emergency Alert System
-📱 Offline Mode Support
-
-### ⚙️ Tech Stack
-
-React Native • Node.js • Firebase • CouchDB • OpenStreetMap
-
----
-
-## 🖥️ Tech Stack Terminal
-
-<div align="center">
-
-[![Languages](https://img.shields.io/badge/Languages-Enter-2ea44f?style=for-the-badge)](#-languages)
-[![Frontend](https://img.shields.io/badge/Frontend-Enter-0366d6?style=for-the-badge)](#-frontend)
-[![Backend](https://img.shields.io/badge/Backend-Enter-6f42c1?style=for-the-badge)](#-backend)
-[![Tools](https://img.shields.io/badge/Tools-Enter-d73a49?style=for-the-badge)](#-tools)
-
-</div>
-
----
-
-## 🧾 Languages
-
-
-┌──────────────────────────────────────────────┐
-│ josh@github:~$ history │
-│ 1 cd languages │
-│ 2 ls │
-│ 3 ./load_languages.sh │
-│ ↑ ↓ navigate history │
-└──────────────────────────────────────────────┘
-
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=700&color=2EA44F&vCenter=true&width=500&lines=Loading+Languages...;JavaScript;TypeScript;Python;SQL&cursor=▋" />
-</p>
-
-
-[████████████████████████████] 100%
-
-
----
-
-## 🎨 Frontend
-
-
-┌──────────────────────────────────────────────┐
-│ josh@github:~$ cd frontend && ls │
-│ React │
-│ Next.js │
-│ Tailwind │
-│ Expo │
-│ ↑ ↓ navigate history │
-└──────────────────────────────────────────────┘
-
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=700&color=0366D6&vCenter=true&width=500&lines=Initializing+Frontend...;React;Next.js;Tailwind+CSS;Expo+React+Native&cursor=▋" />
-</p>
-
-
-[████████████████████████░░░] 85%
-
-
----
-
-## ⚙️ Backend
-
-
-┌──────────────────────────────────────────────┐
-│ josh@github:~$ cd backend && ls │
-│ Node.js │
-│ Django │
-│ Firebase │
-│ REST APIs │
-│ ↑ ↓ navigate history │
-└──────────────────────────────────────────────┘
-
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=700&color=6F42C1&vCenter=true&width=500&lines=Booting+Backend...;Node.js+(TaraG);Django+(HRIS);Firebase;REST+APIs&cursor=▋" />
-</p>
-
-
-[██████████████████████████░] 92%
-
-
----
-
-## 🛠️ Tools
-
-
-┌──────────────────────────────────────────────┐
-│ josh@github:~$ tools --list │
-│ Git │
-│ Docker │
-│ Postman │
-│ TablePlus │
-│ Coolify │
-│ ↑ ↓ navigate history │
-└──────────────────────────────────────────────┘
-
-
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=700&color=D73A49&vCenter=true&width=500&lines=Loading+Tools...;Git;Docker;Postman;TablePlus;Coolify&cursor=▋" />
-</p>
-
-
-[████████████████████████████] 100%
-
-
----
-
-## 🌗 Theme Adaptive Icons (Optional)
-
-<!-- Light Mode -->
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,nodejs,firebase,docker,git&theme=light" />
-
-</div>
-
-<!-- Dark Mode -->
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,nodejs,firebase,docker,git&theme=dark" />
-
-</div>
-
-# 🛠 Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>
-
-### 📱 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,expo" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-### 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
-<img src="https://img.shields.io/badge/CouchDB-red?logo=apache&logoColor=white"/>
-</p>
-
-### 🧰 Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=revieqt&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revieqt&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=revieqt&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revieqt&theme=tokyo-night"/>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p>
 
 <a href="mailto:revie.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-revie.dev%40gmail.com-red?style=for-the-badge&logo=gmail"/>
@@ -260,7 +25,71 @@ React Native • Node.js • Firebase • CouchDB • OpenStreetMap
 </p>
 
 ---
+<p>
+<!-- STACK (SYNCED) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
+Languages+++++++++++++++++++++++++++++++++++++++;
+Frontend++++++++++++++++++++++++++++++++++++++++;
+Backend+++++++++++++++++++++++++++++++++++++++++;
+Tools+and+DevOps++++++++++++++++++++++++++++++++;
+Databases+++++++++++++++++++++++++++++++++++++++;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
+TypeScript++++++++++++[████████████████████]++100%25;
+React+++++++++++++++++[████████████████████]++100%25;
+Node.js+++++++++++++++[████████████████████]++100%25;
+Git+++++++++++++++++++[████████████████████]++100%25;
+MongoDB+++++++++++++++[████████████████████]++100%25;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
+Javascript++++++++++++[████████████████████]++100%25;
+React Native++++++++++[████████████████████]++100%25;
+Django++++++++++++++++[████████████████████]++100%25;
+Docker++++++++++++++++[████████████████████]++100%25;
+PostgreSQL++++++++++++[████████████████████]++100%25;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
+Python++++++++++++++++[████████████████████]++100%25;
+Next.js+++++++++++++++[████████████████████]++100%25;
+Nest.js+++++++++++++++[████████████████████]++100%25;
+Postman+++++++++++++++[████████████████████]++100%25;
+MySQL+++++++++++++++++[████████████████████]++100%25;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
+PHP+++++++++++++++++++[████████████████████]++100%25;
+HTML/CSS++++++++++++++[████████████████████]++100%25;
+REST++++++++++++++++++[████████████████████]++100%25;
+Figma+++++++++++++++++[████████████████████]++100%25;
+Firestore+++++++++++++[████████████████████]++100%25;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
+Java++++++++++++++++++[████████████████████]++100%25;
+Tailwind++++++++++++++[████████████████████]++100%25;
+WebSockets++++++++++++[████████████████████]++100%25;
+VS+Code+++++++++++++++[████████████████████]++100%25;
+Firestorage+++++++++++[████████████████████]++100%25;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
+and+more...+++++++++++++++++++++++++++++++++++++;
+and+more...+++++++++++++++++++++++++++++++++++++;
+and+more...+++++++++++++++++++++++++++++++++++++;
+and+more...+++++++++++++++++++++++++++++++++++++;
+and+more...+++++++++++++++++++++++++++++++++++++;" />
+
+</p>
+
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=revieqt&background=00000000&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f&sideLabels=2ea44f&dates=2ea44f&hide_border=true" />
+
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revieqt&bg_color=00000000&color=2ea44f&line=2ea44f&point=2ea44f&hide_border=true" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>'
+
+---
 
 <h3 align="center">
-⭐ Always learning, building, and improving.
+veni   •   vidi   •   vici
 </h3>
+<p align="center">
+2026
+</p>
