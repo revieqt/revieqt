@@ -49,6 +49,127 @@ React Native • Node.js • Firebase • CouchDB • OpenStreetMap
 
 ---
 
+## 🖥️ Tech Stack Terminal
+
+<div align="center">
+
+[![Languages](https://img.shields.io/badge/Languages-Enter-2ea44f?style=for-the-badge)](#-languages)
+[![Frontend](https://img.shields.io/badge/Frontend-Enter-0366d6?style=for-the-badge)](#-frontend)
+[![Backend](https://img.shields.io/badge/Backend-Enter-6f42c1?style=for-the-badge)](#-backend)
+[![Tools](https://img.shields.io/badge/Tools-Enter-d73a49?style=for-the-badge)](#-tools)
+
+</div>
+
+---
+
+## 🧾 Languages
+
+
+┌──────────────────────────────────────────────┐
+│ josh@github:~$ history │
+│ 1 cd languages │
+│ 2 ls │
+│ 3 ./load_languages.sh │
+│ ↑ ↓ navigate history │
+└──────────────────────────────────────────────┘
+
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=700&color=2EA44F&vCenter=true&width=500&lines=Loading+Languages...;JavaScript;TypeScript;Python;SQL&cursor=▋" />
+</p>
+
+
+[████████████████████████████] 100%
+
+
+---
+
+## 🎨 Frontend
+
+
+┌──────────────────────────────────────────────┐
+│ josh@github:~$ cd frontend && ls │
+│ React │
+│ Next.js │
+│ Tailwind │
+│ Expo │
+│ ↑ ↓ navigate history │
+└──────────────────────────────────────────────┘
+
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=700&color=0366D6&vCenter=true&width=500&lines=Initializing+Frontend...;React;Next.js;Tailwind+CSS;Expo+React+Native&cursor=▋" />
+</p>
+
+
+[████████████████████████░░░] 85%
+
+
+---
+
+## ⚙️ Backend
+
+
+┌──────────────────────────────────────────────┐
+│ josh@github:~$ cd backend && ls │
+│ Node.js │
+│ Django │
+│ Firebase │
+│ REST APIs │
+│ ↑ ↓ navigate history │
+└──────────────────────────────────────────────┘
+
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=700&color=6F42C1&vCenter=true&width=500&lines=Booting+Backend...;Node.js+(TaraG);Django+(HRIS);Firebase;REST+APIs&cursor=▋" />
+</p>
+
+
+[██████████████████████████░] 92%
+
+
+---
+
+## 🛠️ Tools
+
+
+┌──────────────────────────────────────────────┐
+│ josh@github:~$ tools --list │
+│ Git │
+│ Docker │
+│ Postman │
+│ TablePlus │
+│ Coolify │
+│ ↑ ↓ navigate history │
+└──────────────────────────────────────────────┘
+
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1800&pause=700&color=D73A49&vCenter=true&width=500&lines=Loading+Tools...;Git;Docker;Postman;TablePlus;Coolify&cursor=▋" />
+</p>
+
+
+[████████████████████████████] 100%
+
+
+---
+
+## 🌗 Theme Adaptive Icons (Optional)
+
+<!-- Light Mode -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,nodejs,firebase,docker,git&theme=light" />
+
+</div>
+
+<!-- Dark Mode -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,nodejs,firebase,docker,git&theme=dark" />
+
+</div>
+
 # 🛠 Tech Stack
 
 ### 👨‍💻 Languages
