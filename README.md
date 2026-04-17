@@ -27,48 +27,86 @@ Exploring **System Architecture & DevOps**.
 ---
 <p>
 <!-- STACK (SYNCED) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
-Languages+++++++++++++++++++++++++++++++++++++++;
-Frontend++++++++++++++++++++++++++++++++++++++++;
-Backend+++++++++++++++++++++++++++++++++++++++++;
-Tools+and+DevOps++++++++++++++++++++++++++++++++;
-Databases+++++++++++++++++++++++++++++++++++++++;" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
-TypeScript++++++++++++[████████████████████]++100%25;
-React+++++++++++++++++[████████████████████]++100%25;
-Node.js+++++++++++++++[████████████████████]++100%25;
-Git+++++++++++++++++++[████████████████████]++100%25;
-MongoDB+++++++++++++++[████████████████████]++100%25;" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
-Javascript++++++++++++[████████████████████]++100%25;
-React Native++++++++++[████████████████████]++100%25;
-Django++++++++++++++++[████████████████████]++100%25;
-Docker++++++++++++++++[████████████████████]++100%25;
-PostgreSQL++++++++++++[████████████████████]++100%25;" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
-Python++++++++++++++++[████████████████████]++100%25;
-Next.js+++++++++++++++[████████████████████]++100%25;
-Nest.js+++++++++++++++[████████████████████]++100%25;
-Postman+++++++++++++++[████████████████████]++100%25;
-MySQL+++++++++++++++++[████████████████████]++100%25;" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
-PHP+++++++++++++++++++[████████████████████]++100%25;
-HTML/CSS++++++++++++++[████████████████████]++100%25;
-REST++++++++++++++++++[████████████████████]++100%25;
-Figma+++++++++++++++++[████████████████████]++100%25;
-Firestore+++++++++++++[████████████████████]++100%25;" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
-Java++++++++++++++++++[████████████████████]++100%25;
-Tailwind++++++++++++++[████████████████████]++100%25;
-WebSockets++++++++++++[████████████████████]++100%25;
-VS+Code+++++++++++++++[████████████████████]++100%25;
-Firestorage+++++++++++[████████████████████]++100%25;" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4500&pause=0&color=2EA44F&vCenter=true&width=650&lines=
-and+more...+++++++++++++++++++++++++++++++++++++;
-and+more...+++++++++++++++++++++++++++++++++++++;
-and+more...+++++++++++++++++++++++++++++++++++++;
-and+more...+++++++++++++++++++++++++++++++++++++;
-and+more...+++++++++++++++++++++++++++++++++++++;" />
+<svg width="700" height="420" viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 18px 'Fira Code', monospace; fill: #2EA44F; }
+    .label { font: 14px 'Fira Code', monospace; fill: #c9d1d9; }
+    .bar-bg { fill: #30363d; rx: 4; }
+    .bar-fill { fill: #2EA44F; rx: 4; }
+  </style>
+
+  <!-- Title -->
+  <text x="20" y="30" class="title">Skills</text>
+
+  <!-- Function to simulate bars (manually repeated) -->
+
+  <!-- Row Template -->
+  <!-- y increases by 35 each row -->
+
+  <!-- TypeScript -->
+  <text x="20" y="70" class="label">TypeScript</text>
+  <rect x="150" y="55" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="55" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" fill="freeze"/>
+  </rect>
+
+  <!-- React -->
+  <text x="20" y="105" class="label">React</text>
+  <rect x="150" y="90" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="90" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" begin="0.2s" fill="freeze"/>
+  </rect>
+
+  <!-- Node.js -->
+  <text x="20" y="140" class="label">Node.js</text>
+  <rect x="150" y="125" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="125" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" begin="0.4s" fill="freeze"/>
+  </rect>
+
+  <!-- MongoDB -->
+  <text x="20" y="175" class="label">MongoDB</text>
+  <rect x="150" y="160" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="160" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" begin="0.6s" fill="freeze"/>
+  </rect>
+
+  <!-- React Native -->
+  <text x="20" y="210" class="label">React Native</text>
+  <rect x="150" y="195" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="195" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" begin="0.8s" fill="freeze"/>
+  </rect>
+
+  <!-- Docker -->
+  <text x="20" y="245" class="label">Docker</text>
+  <rect x="150" y="230" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="230" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" begin="1s" fill="freeze"/>
+  </rect>
+
+  <!-- PostgreSQL -->
+  <text x="20" y="280" class="label">PostgreSQL</text>
+  <rect x="150" y="265" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="265" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" begin="1.2s" fill="freeze"/>
+  </rect>
+
+  <!-- Tailwind -->
+  <text x="20" y="315" class="label">Tailwind</text>
+  <rect x="150" y="300" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="300" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" begin="1.4s" fill="freeze"/>
+  </rect>
+
+  <!-- Next.js -->
+  <text x="20" y="350" class="label">Next.js</text>
+  <rect x="150" y="335" width="500" height="12" class="bar-bg"/>
+  <rect x="150" y="335" width="0" height="12" class="bar-fill">
+    <animate attributeName="width" from="0" to="500" dur="1s" begin="1.6s" fill="freeze"/>
+  </rect>
+
+</svg>
 
 </p>
 
