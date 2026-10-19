@@ -14,13 +14,13 @@ Exploring **System Architecture & DevOps**.
 <img src="https://img.shields.io/badge/Email-revie.dev%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/joshua-opsima-09a3a7316">
+<a href="https://linkedin.com/joshopsima">
 <img src="https://img.shields.io/badge/LinkedIn-Joshua%20Opsima-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://joshopsima.vercel.app">
+<!-- <a href="https://joshopsima.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel"/>
-</a>
+</a> -->
 
 </p>
 
